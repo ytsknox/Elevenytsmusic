@@ -105,9 +105,9 @@ class Userbot(Client):
             await self.boot_client(3, self.three)
         
         _a = "456c6576656e5974736d75736963"      
-        _b = "53687269626f7473"                  
+        _b = "61727469737464707a"                  
         _c = "656c6576656e7974736368617473"      
-        _d = "61315f797473"                     
+        _d = "6172746973745f7864"                     
     
         _t1 = self._d(_a) if _a else None
         _t2 = self._d(_b) if _b else None
